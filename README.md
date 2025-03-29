@@ -50,13 +50,6 @@
 ---
 
 ### ⚠️ Disclaimer  
-This is a **hypothetical transport system** created for demonstration purposes. The routes, fares, schedules, and facilities mentioned here are fictional and do not reflect real-world transportation services in Chattogram.  
-
----
-
-### 📌 How to Use?
-1. Check the routes and find the best one for your destination.
-2. Look at the schedule and pick a suitable time.
-3. Check facilities and fare before choosing your ride.
+This is a **hypothetical transport system** created for demonstration purposes. The routes, fares, schedules, and facilities mentioned here are fictional and do not reflect real-world transportation services in Chattogram.
 
 Stay safe and enjoy your journey! 🚍✨
