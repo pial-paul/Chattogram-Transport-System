@@ -68,7 +68,7 @@ This project is a **hypothetical representation** of Chattogram's transport syst
 4. View details such as estimated time, fare, and stops.
 
 ## 📺 Demo
-Will be uploaded soon
+- 🔗 https://pial-paul.github.io/Chattogram-Transport-System/
 
 ## 🛠️ Technologies Used
 - HTML5 🏩
