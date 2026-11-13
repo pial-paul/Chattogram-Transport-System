@@ -1,0 +1,9 @@
+{
+  "name": "chattala-transit",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test planner.test.js",
+    "start": "npm run build && python -m http.server 8784 --bind 127.0.0.1 --directory dist"
+  }
+}
